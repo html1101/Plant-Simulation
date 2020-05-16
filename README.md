@@ -1,2 +1,2 @@
 # Plant-Simulation
-Plant simulation; reproduces Gregor Mendel's research on pea plants by following the seven characteristics he traced.
+Plant simulation; reproduces Gregor Mendel's research on pea plants by following the seven characteristics. The player interacts in the three dimensional world, planting vegetation in a field and aspiring to create a garden. They can play in educational mode, in which they predict the results of a Punnett square in mechanical pollination, or in creative mode, in which they can experiment and allow for cross-pollination and self pollination. See [here](https://github.com/users/html1101/projects/1) for more details.
