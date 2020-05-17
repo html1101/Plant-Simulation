@@ -1,0 +1,20 @@
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+/* * {
+    cursor: none;
+} */
+#center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 5px;
+    height: 5px;
+    margin-left: -2.5px;
+    margin-top: -2.5px;
+    background: red;
+    z-index: 10;
+    display: none;
+}
